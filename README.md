@@ -1,4 +1,4 @@
-# Bindings Cyberpunk pour AZERTY FR
+# Configuration Keybinds pour Cyberpunk 2077 - claviers AZERTY FR
 
 Ce document accompagne le fichier `inputUserMappings.XML` qui contient des bindings personnalisés pour le jeu Cyberpunk 2077, adaptés pour un clavier AZERTY français (BE). Ces bindings ont été conçus pour corriger certains problèmes de contrôles au clavier survenus après le patch 2.11. Le fichier original pour le patch 2.12 est livré tel quel, en tant que backup.
 
