@@ -1,7 +1,6 @@
-Bindings Cyberpunk pour clavier AZERTY FR (BE)
-=======
+# Bindings Cyberpunk pour AZERTY FR
 
-Ce document accompagne le fichier `inputUserMappings.XML` qui contient des bindings personnalisés pour le jeu Cyberpunk 2077, adaptés pour un clavier AZERTY Français (BE). Ces bindings ont été conçus pour corriger certains problèmes de contrôles au clavier survenus après le patch 2.11.
+Ce document accompagne le fichier `inputUserMappings.XML` qui contient des bindings personnalisés pour le jeu Cyberpunk 2077, adaptés pour un clavier AZERTY (BE). Ces bindings ont été conçus par Benoit Heylens pour corriger certains problèmes de contrôles au clavier survenus après le patch 2.11.
 
 ## Version
 
@@ -17,7 +16,7 @@ Pour utiliser ces bindings personnalisés :
 
 1. Localisez le dossier d'installation de Cyberpunk 2077 sur votre ordinateur.
 2. Naviguez jusqu'au sous-dossier `r6/config`.
-3. Faites une sauvegarde de votre fichier `inputUserMappings.XML` original pour éviter toute perte de configuration (par exemple en nommant la copie `InputUserMappings_original.XML`).
+3. Faites une sauvegarde de votre fichier `inputUserMappings.XML` original pour éviter toute perte de configuration.
 4. Remplacez le fichier `inputUserMappings.XML` existant par celui fourni dans ce package.
 5. Lancez le jeu et testez les nouveaux bindings pour vous assurer qu'ils fonctionnent correctement.
 
@@ -27,24 +26,24 @@ Listez ici les modifications apportées aux bindings par rapport à la configura
 
 - **Déplacement** : WASD remplacé par ZQSD pour s'adapter à la disposition AZERTY.
 - **Action** : La touche E remplacée par la touche F pour l'interaction.
-- **Menu** : La touche Esc remplacée par la touche Échap pour ouvrir le menu principal.
-- **Saut** : La touche Space remplacée par la touche Espace pour le saut.
+- **Radio** : La touche Z est remplacée par la touche W
+- **Navigation** : Toutes les fonctions de navigations dans les menus ont été assignées aux touches A et E ou Q et D (Azerty FR) en lieu et place de Q et E et A et D (Qwerty)
 
 ## Problèmes connus
 
-_(A alimenter)_
+A venir
 
 ## Contribution
 
-Si vous souhaitez proposer des améliorations ou signaler des bugs, merci de contacter l'auteur à [talents_ciment_0n@icloud.com].
+Si vous souhaitez proposer des améliorations ou signaler des bugs, veuillez contacter Benoit Heylens à [adresse email].
 
 ## Licence
 
 Ces bindings personnalisés sont partagés sous licence MIT. Ils sont libres d'utilisation et de modification pour usage personnel.
 
-**Important**: Ce document et les bindings associés ne sont pas affiliés, sponsorisés ou spécifiquement approuvés par CD PROJEKT RED et CD PROJEKT RED n'est pas responsable de leur contenu. Cyberpunk 2077 est une marque déposée de CD PROJEKT RED.
-
 ---
+
+Ce document et les bindings associés ne sont pas affiliés, approuvés, sponsorisés ou spécifiquement approuvés par CD PROJEKT RED et CD PROJEKT RED n'est pas responsable de leur contenu. Cyberpunk 2077 est une marque déposée de CD PROJEKT RED.
 
 # Licence
 
