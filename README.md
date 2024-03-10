@@ -2,7 +2,34 @@
 
 Ce document accompagne le fichier `inputUserMappings.XML` qui contient des bindings personnalisés pour le jeu Cyberpunk 2077, adaptés pour un clavier AZERTY français (BE). Ces bindings ont été conçus pour corriger certains problèmes de contrôles au clavier survenus après le patch 2.11. Le fichier original pour le patch 2.12 est livré tel quel, en tant que backup.
 
-**Important** : 
+La majorité des configurations proposées ici sont optimisées pour les claviers Azerty français (FR). Cependant, certaines touches peuvent différer légèrement sur les claviers Azerty belges (BE), affectant peut-être quelques raccourcis mineurs. Nous vous encourageons à vérifier et à ajuster ces bindings selon vos besoins pour une expérience de jeu optimale.
+
+**Important** : À noter que chaque mise à jour de Cyberpunk 2077 par CD PROJEKT RED peut entraîner des modifications du fichier `inputUserMappings.XML`. Il est donc vivement conseillé de conserver une sauvegarde des fichiers de configuration, tant originaux que personnalisés, en dehors des dossiers de jeu standards pour éviter toute perte lors des patchs.
+
+---
+
+## Différences de touches entre les claviers Azerty BE et FR
+
+La ligne supérieure des chiffres et des symboles, située juste en dessous de la touche de retour arrière (backspace), présente des différences notables entre les claviers Azerty utilisés en Belgique (BE) et en France (FR). Voici un aperçu de ces différences :
+
+### Avec Majuscule inactive (minuscules)
+
+#### Disposition Azerty FR
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | ° | + |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| & | é | " | ' | ( | - | è | _ | ç | à | ) | = |
+
+#### Disposition Azerty BE
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | ° | _ |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| & | é | " | ' | ( | § | è | ! | ç | à | ) | - |
+
+**Sources** : 
+* Wikipedia : [https://fr.wikipedia.org/wiki/Disposition_des_touches_d%27un_clavier_de_saisie]
+* Image de comparaison BE - FR : [https://upload.wikimedia.org/wikipedia/commons/f/f5/Claviers_fr-be.jpg]
+
 
 ## Version
 
