@@ -70,7 +70,7 @@ Si vous souhaitez proposer des améliorations ou signaler des bugs, merci de con
 
 # Licence
 
-**note**: Ces bindings personnalisés sont partagés sous licence MIT. Ils sont libres d'utilisation et de modification pour usage personnel. Ce document et les bindings associés ne sont pas affiliés, sponsorisés ou spécifiquement approuvés par CD PROJEKT RED et CD PROJEKT RED n'est pas responsable de leur contenu. Cyberpunk 2077 est une marque déposée de CD PROJEKT RED.
+**Note** : Ces bindings personnalisés sont partagés sous licence MIT. Ils sont libres d'utilisation et de modification pour usage personnel. Ce document et les bindings associés ne sont pas affiliés, sponsorisés ou spécifiquement approuvés par CD PROJEKT RED et CD PROJEKT RED n'est pas responsable de leur contenu. Cyberpunk 2077 est une marque déposée de CD PROJEKT RED.
 
 ## MIT License
 
