@@ -1,6 +1,8 @@
 # Bindings Cyberpunk pour AZERTY FR
 
-Ce document accompagne le fichier `inputUserMappings.XML` qui contient des bindings personnalisés pour le jeu Cyberpunk 2077, adaptés pour un clavier AZERTY (BE). Ces bindings ont été conçus par Benoit Heylens pour corriger certains problèmes de contrôles au clavier survenus après le patch 2.11.
+Ce document accompagne le fichier `inputUserMappings.XML` qui contient des bindings personnalisés pour le jeu Cyberpunk 2077, adaptés pour un clavier AZERTY français (BE). Ces bindings ont été conçus pour corriger certains problèmes de contrôles au clavier survenus après le patch 2.11. Le fichier original pour le patch 2.12 est livré tel quel, en tant que backup.
+
+**Important** : 
 
 ## Version
 
@@ -16,7 +18,7 @@ Pour utiliser ces bindings personnalisés :
 
 1. Localisez le dossier d'installation de Cyberpunk 2077 sur votre ordinateur.
 2. Naviguez jusqu'au sous-dossier `r6/config`.
-3. Faites une sauvegarde de votre fichier `inputUserMappings.XML` original pour éviter toute perte de configuration.
+3. Faites une sauvegarde de votre fichier `inputUserMappings.XML` original pour éviter toute perte de configuration (par exemple en créant une copie du fichier `inputUserMappings_original.XML`).
 4. Remplacez le fichier `inputUserMappings.XML` existant par celui fourni dans ce package.
 5. Lancez le jeu et testez les nouveaux bindings pour vous assurer qu'ils fonctionnent correctement.
 
@@ -31,19 +33,19 @@ Listez ici les modifications apportées aux bindings par rapport à la configura
 
 ## Problèmes connus
 
-A venir
+_(A alimenter)_
 
 ## Contribution
 
-Si vous souhaitez proposer des améliorations ou signaler des bugs, veuillez contacter Benoit Heylens à [adresse email].
+Si vous souhaitez proposer des améliorations ou signaler des bugs, merci de contacter l'auteur à [talents_ciment_0n@icloud.com].
 
 ## Licence
 
 Ces bindings personnalisés sont partagés sous licence MIT. Ils sont libres d'utilisation et de modification pour usage personnel.
 
----
+**Important** : Ce document et les bindings associés ne sont pas affiliés, sponsorisés ou spécifiquement approuvés par CD PROJEKT RED et CD PROJEKT RED n'est pas responsable de leur contenu. Cyberpunk 2077 est une marque déposée de CD PROJEKT RED.
 
-Ce document et les bindings associés ne sont pas affiliés, approuvés, sponsorisés ou spécifiquement approuvés par CD PROJEKT RED et CD PROJEKT RED n'est pas responsable de leur contenu. Cyberpunk 2077 est une marque déposée de CD PROJEKT RED.
+---
 
 # Licence
 
