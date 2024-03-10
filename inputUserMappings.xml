@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<!-- Modified version of original inputUserMappings.xml for Azerty FR (BE) keyboards, suitable for patch 2.12 | 10 March 2024 --> 
 <bindings>
 
 	<mapping name="TOUCH_SWIPE_X" type="Relative">
