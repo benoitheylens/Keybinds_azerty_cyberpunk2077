@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!-- Modified version of original inputUserMappings.xml for Azerty FR (BE) keyboards, suitable for patch 2.12 | 10 March 2024 --> 
+<!-- Modified version of original inputUserMappings.xml for Azerty FR (BE) keyboards, suitable for patch 2.12 | 11 March 2024 --> 
 <bindings>
 
 	<mapping name="TOUCH_SWIPE_X" type="Relative">
@@ -627,7 +627,7 @@
 	</mapping>
 	<mapping name="PocketRadio_Button" type="Button">
 		<button id="IK_Pad_DigitLeft" />
-		<button id="IK_W" overridableUI="pocketRadio" />
+		<button id="IK_R" overridableUI="pocketRadio" />
 	</mapping>
 
 	<mapping name="WeaponWheel_Button" type="Button">
