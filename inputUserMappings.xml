@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!-- Modified version of original inputUserMappings.xml for Azerty FR (BE) keyboards, suitable for patch 2.12 | 11 March 2024 --> 
+<!-- Modified version of original inputUserMappings.xml for Azerty FR (BE) keyboards, suitable for patch 2.12 | 12 March 2024 --> 
 <bindings>
 
 	<mapping name="TOUCH_SWIPE_X" type="Relative">
@@ -188,7 +188,7 @@
 	</mapping>
 
 	<mapping name="Notification_Button" type="Button">
-		<button id="IK_W" overridableUI="openNotifiation"/>
+		<button id="IK_T" overridableUI="openNotifiation"/>
 		<button id="IK_Pad_DigitLeft" />
 	</mapping>
 
@@ -616,6 +616,7 @@
 		<button id="IK_Pad_Y_TRIANGLE" />
 		<button id="IK_2" />
 	</mapping>
+	
 	<mapping name="CallVehicle_Button" type="Button">
 		<button id="IK_Pad_DigitRight" />
 		<button id="IK_V" overridableUI="callVehicle"/>
@@ -625,9 +626,10 @@
 		<button id="IK_Pad_RightShoulder" />
 		<button id="IK_R" overridableUI="radio"/>
 	</mapping>
+
 	<mapping name="PocketRadio_Button" type="Button">
 		<button id="IK_Pad_DigitLeft" />
-		<button id="IK_R" overridableUI="pocketRadio" />
+		<button id="IK_W" overridableUI="pocketRadio" />
 	</mapping>
 
 	<mapping name="WeaponWheel_Button" type="Button">
@@ -854,6 +856,7 @@
 		<button id="IK_Q" />
 		<button id="IK_Pad_Y_TRIANGLE" />
 	</mapping>
+
 	<!-- VEHICLES -->
 	<mapping name="LeftX_Axis_Vehicle" type="Axis">
 		<button id="IK_Pad_LeftAxisX" />
@@ -975,7 +978,7 @@
 	</mapping>
 
 	<mapping name="VehicleInverseCameraToggle_Button" type="Button">
-		<button id="IK_LShift" overridableUI="vehicleInverseCam"/>
+		<button id="IK_MiddleMouse" overridableUI="vehicleReverseCam"/>
 		<button id="IK_Pad_RightThumb" />
 	</mapping>
 
@@ -1242,7 +1245,7 @@
 		<button id="IK_Up" overridableUI="selectUpSecondary"/>
 	</mapping>
 
-	<mapping name="UI_MoveDownSms_Ext" type="Button">
+	<mapping name="UI_MoveDown_Ext" type="Button">
 		<button id="IK_Pad_DigitDown" />
 		<button id="IK_E" overridableUI="selectDown"/>
 		<button id="IK_MouseWheelDown" />
@@ -1974,7 +1977,7 @@
 
 	<mapping name="equip_item" type="Button" SIEJADependent="true">
 		<button id="IK_Pad_A_CROSS"/>
-		<button id="IK_Pad_X_SQUARE"/>
+		<!-- <button id="IK_Pad_X_SQUARE"/> -->
 		<button id="IK_LeftMouse"/>
 	</mapping>
 
